@@ -11,7 +11,7 @@ local DiscordLib = loadstring(game:HttpGet "https://raw.githubusercontent.com/dy
 local NotifyLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()
 local Notify = NotifyLibrary.Notify
 
-local win = DiscordLib:Window("Enclosed - Da Hood V7.2 | discord.gg/enclosed")
+local win = DiscordLib:Window("Kitler_R - Da Hood V7.2 | https://discord.com/invite/h3BJXfD2cq")
 
 local serv = win:Server("Enclosed", "")
 
